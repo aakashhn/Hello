@@ -1,0 +1,14 @@
+package com.cg.entity;
+
+public class Department {
+  
+	private long departmentId;
+	private String departmentName;
+	private String departmentAddress;
+	private String departmentCode;
+	
+	
+	
+	
+	
+}

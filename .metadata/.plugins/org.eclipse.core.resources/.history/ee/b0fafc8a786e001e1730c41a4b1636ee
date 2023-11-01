@@ -1,0 +1,9 @@
+package com.cg.dao;
+
+import com.cg.entity.Department;
+
+public interface DepartmentDao {
+
+	String addDepartment(Department d);
+
+}
